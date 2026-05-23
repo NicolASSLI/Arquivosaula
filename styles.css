@@ -72,12 +72,12 @@
   .card span {
     display: inline-block;
     margin-top: 10px;
-    color: #e31e24;
+    color: #f31195;
     font-weight: bold;
   }
   
   footer {
     text-align: center;
     padding: 24px;
-    color: #52616b;
+    color: #f31195;
   }
