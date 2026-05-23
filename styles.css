@@ -57,7 +57,7 @@
   }
   
   .card {
-    background: white;
+    background: rgb(242, 3, 174);
     border-left: 6px solid #0969da;
     border-radius: 16px;
     padding: 18px;
@@ -66,18 +66,18 @@
   
   .card h3 {
     margin-top: 0;
-    color: #004823;
+    color: #f31195;
   }
   
   .card span {
     display: inline-block;
     margin-top: 10px;
-    color: #e31e24;
+    color: #f31195;
     font-weight: bold;
   }
   
   footer {
     text-align: center;
     padding: 24px;
-    color: #52616b;
+    color: #f31195;
   }
