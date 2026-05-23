@@ -57,7 +57,7 @@
   }
   
   .card {
-    background: white;
+    background: rgb(242, 3, 174);
     border-left: 6px solid #0969da;
     border-radius: 16px;
     padding: 18px;
@@ -66,7 +66,7 @@
   
   .card h3 {
     margin-top: 0;
-    color: #004823;
+    color: #f31195;
   }
   
   .card span {
